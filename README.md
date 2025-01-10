@@ -11,8 +11,8 @@ The Product Sales Analysis Dashboard is a comprehensive Power BI project that pr
 ## Tools and Technologies  
 - **Power BI**: Used for data cleaning, modeling, visualization, and interactive dashboard creation.  
 - **Data Sources**
-- Dataset file - https://github.com/haraprasadparida/Product-Sales-Analysis-Dashboard-project/blob/main/Main%20Dataset.csv
-- Dashboard file - https://github.com/haraprasadparida/Product-Sales-Analysis-Dashboard-project/blob/main/Product%20Sales%20Analysis%20Dashboard.pbix 
+  Dataset file - https://github.com/haraprasadparida/Product-Sales-Analysis-Dashboard-project/blob/main/Main%20Dataset.csv
+  Dashboard file - https://github.com/haraprasadparida/Product-Sales-Analysis-Dashboard-project/blob/main/Product%20Sales%20Analysis%20Dashboard.pbix 
 
 ## Insights Gained  
 1. **Top-Selling Product**: MacBook Pro Laptop.  
