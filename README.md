@@ -1,4 +1,4 @@
-# Product Sales Analysis Dashboard Project
+# Product Sales Analysis Dashboard Project using MICROSOFT POWER BI
 The Product Sales Analysis Dashboard is a comprehensive Power BI project that provides actionable insights into product sales performance. This dashboard is tailored to help businesses understand their sales data and make informed decisions to optimize revenue and operations using only Power BI. The dashboard provides a detailed analysis of product sales, offering insights into key metrics such as total sales, orders, and quantity sold, along with top-performing products, cities, and trends across time periods.
 
 ## Key Features  
